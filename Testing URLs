@@ -1,0 +1,9 @@
+https://www.w3schools.com/html/html_tables.asp
+
+
+//*[@id="customers"]
+
+
+
+//*[@id="customers"]/tbody/tr[2]/td[1]
+//*[@id="customers"]/tbody/tr[3]/td[1]
